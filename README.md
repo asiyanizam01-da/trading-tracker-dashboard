@@ -5,7 +5,7 @@ A simple personal trade logging workbook built in Excel with an automated dashbo
 
 ## Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](trading_dashboard.png)
 
 ---
 
@@ -15,7 +15,7 @@ A simple personal trade logging workbook built in Excel with an automated dashbo
 trading-tracker/
 ├── trading_tracker.xlsx         # Clean version — ready for your own data
 ├── trading_tracker_sample.xlsx  # Sample version — pre-filled with demo trades
-├── dashboard.png                # Dashboard screenshot
+├── trading_dashboard.png                # Dashboard screenshot
 ├── README.md                    # You are here
 └── LICENSE
 ```
