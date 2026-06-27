@@ -14,7 +14,7 @@ A simple personal trade logging workbook built in Excel with an automated dashbo
 ```
 trading-tracker/
 ├── trading_tracker.xlsx         # Clean version — ready for your own data
-├── trading_tracker_sample.xlsx  # Sample version — pre-filled with demo trades
+├── trading_tracker_template.xlsx  # Sample version — pre-filled with demo trades
 ├── trading_dashboard.png                # Dashboard screenshot
 ├── README.md                    # You are here
 └── LICENSE
@@ -43,13 +43,14 @@ trading-tracker/
 
 ## How to Use
 
-1. Open `trading_tracker.xlsx` in Excel
+1. Open `trading_tracker_template.xlsx` in Excel
 2. In the **Trade Log** sheet, enter values in the input columns:
    - Date, Symbol, Market, Direction, Entry Price, Exit Price, Position Size, Stop Loss, Take Profit, Fees, PnL, Strategy, Notes
 3. All other columns (Win/Loss, RR Ratio, Quarter, etc.) will populate automatically
 4. Head to the **Dashboard** sheet to see your performance update in real time
 5. Use the **slicers** to filter by market, strategy, or time period
 6. After adding new data, right-click any pivot table → **Refresh** to update the dashboard
+7. Open `trading_tracker.xlsx` to see dashboard with sample trading log for reference.
 
 ---
 
